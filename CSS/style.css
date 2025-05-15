@@ -47,6 +47,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    border: rgb(255, 0, 0);
 }
 
 .menu .navbar ul {
